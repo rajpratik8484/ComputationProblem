@@ -1,1 +1,8 @@
+
 #!/bin/bash
+
+
+read -p "enter 1st number: " number
+read -p "enter 2nd number: " number
+read -p "enter 3rd number: " number
+
