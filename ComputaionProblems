@@ -8,3 +8,6 @@ read -p "enter 3rd number: " c
 
 sol1= $(( $a + $b * $c ))
 echo "solution is: $sol1" 
+
+sol2= $(( $a* $b + $c ))
+echo "solution is $sol2"
