@@ -14,3 +14,6 @@ echo "solution is $sol2"
 
 sol3= $(($c + $a / $b))
 echo "solution is $sol3"
+
+sol4= $(($a % $b + $c))
+echo "solution is sol4"
